@@ -1,0 +1,29 @@
+.card_width{
+    max-width: 250px;
+}
+
+.heading{
+    position: absolute;
+  right: 15%;
+  bottom: 7.25rem;
+  left: 15%;
+  /* padding-top: 1.25rem;
+  padding-bottom: 1.25rem; */
+  color: #fff;
+  text-align: center;
+}
+
+@media screen and (min-width: 992px) {
+.img_height{
+    height: 500px;
+}
+
+.img_height-header{
+    height: 350px;
+}
+
+.card_width{
+    max-width: 450px;
+}
+
+}
